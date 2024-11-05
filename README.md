@@ -29,12 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tharaka1103&show_icons=true&theme=radical" alt="Tharaka's GitHub Stats" />
 </div>
 
-### Stats Highlights
-- **✨ Total Stars Earned**: 327 🌟
-- **🖊️ Total Commits (2024)**: 751 📅
-- **📈 Total PRs**: 3 🚀
-- **✅ Total Issues**: 0 🛠️
-
 ---
 
 ## 📊 Most Used Languages
