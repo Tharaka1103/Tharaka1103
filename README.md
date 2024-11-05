@@ -8,12 +8,18 @@
 ## 🌐 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&width=435&lines=I'm+Tharaka+Dharmasiri;Web+Developer+%7C+Engineer+%7C+Student;I+love+coding+and+learning+new+things!;Welcome+to+my+GitHub+profile!" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00BFFF&width=450&lines=Hi+there!+I'm+Tharaka+Dharmasiri;Web+Developer+%7C+Learning+Enthusiast;Full+Stack+MERN+Developer;Welcome+to+my+GitHub+profile!" alt="Typing SVG Animation" />
 </div>
 
-- 🎂 **Age**: 21 years old
-- 📚 **Currently Studying**: Computer Systems and Network Engineering at SLIIT
-- 💻 **Interests**: HTML, CSS, JavaScript, C++, Hacking, Web Development
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=ff5722&size=24&duration=2000&pause=500&vCenter=true&width=500&lines=Passionate+About+Technology;Building+Solutions+That+Matter;Exploring+New+Technologies+Every+Day" alt="Subtext Typing Animation" />
+</div>
+
+---
+
+- 🎂 **Age**: 23 years old
+- 📚 **Currently Studying**: BSc (Hons) Information Technology Specialization Information Technology at SLIIT
+- 💻 **Interests**: HTML, CSS, JavaScript, PHP, C++, MERN Stack, Web Development
 
 ---
 
@@ -40,9 +46,10 @@
 ---
 
 ## 🚀 Skills & Tools
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: PHP, Shell Scripting, Hack
-- **Languages**: Kotlin, TypeScript, C++
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF00&width=500&lines=Frontend%3A+HTML%2C+CSS%2C+JavaScript%2C+MERN;Backend%3A+PHP%2C+MERN+Stack;Languages%3A+Kotlin%2C+JavaScript%2C+C%2B%2B" alt="Skills Typing Animation" />
+</div>
 
 ---
 
@@ -63,6 +70,10 @@
 
 ## 🌍 Projects
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFD700&vCenter=true&width=500&lines=Highlighted+Projects+%F0%9F%94%A5" alt="Projects Typing Animation" />
+</div>
+
 - [Project Name](https://github.com/TharakaDharmasiri/ProjectName) - Brief description of project and its purpose
 - [Another Project](https://github.com/TharakaDharmasiri/AnotherProject) - Brief description and why it’s interesting
 
@@ -71,7 +82,7 @@
 ## 🎨 Fun Facts
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5733&width=450&lines=I+love+exploring+new+tech!;Coding+is+my+happy+place;Solving+problems+is+my+passion!" alt="Fun Facts Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF5733&width=450&lines=I+love+exploring+new+tech!;Coding+is+my+happy+place;Solving+problems+is+my+passion!" alt="Fun Facts Typing Animation" />
 </div>
 
 ---
