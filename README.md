@@ -30,10 +30,10 @@
 </div>
 
 ### Stats Highlights
-- **Total Stars Earned**: <!-- Update this if you want specific numbers -->
-- **Total Commits**: <!-- Update with your total commits for the current year if desired -->
-- **Total PRs**: <!-- Update if you have pull requests you’d like to highlight -->
-- **Total Issues**: <!-- Update with your issue contributions if applicable -->
+- **✨ Total Stars Earned**: 327 🌟
+- **🖊️ Total Commits (2024)**: 751 📅
+- **📈 Total PRs**: 3 🚀
+- **✅ Total Issues**: 0 🛠️
 
 ---
 
