@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Tharaka Dharmasiri
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tharaka-dharmasiri-3ba950204/)
-[![GitHub Followers](https://img.shields.io/github/followers/TharakaDharmasiri?style=social)](https://github.com/TharakaDharmasiri)
+[![GitHub Followers](https://img.shields.io/github/followers/Tharaka1103?style=social)](https://github.com/Tharaka1103)
 
 ---
 
@@ -26,21 +26,21 @@
 ## 🏆 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TharakaDharmasiri&show_icons=true&theme=radical" alt="Tharaka's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharaka1103&show_icons=true&theme=radical" alt="Tharaka's GitHub Stats" />
 </div>
 
 ### Stats Highlights
-- **Total Stars Earned**: 327 🌟
-- **Total Commits (2024)**: 751 🖊️
-- **Total PRs**: 3 📈
-- **Total Issues**: 0 ✅
+- **Total Stars Earned**: <!-- Update this if you want specific numbers -->
+- **Total Commits**: <!-- Update with your total commits for the current year if desired -->
+- **Total PRs**: <!-- Update if you have pull requests you’d like to highlight -->
+- **Total Issues**: <!-- Update with your issue contributions if applicable -->
 
 ---
 
 ## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharakaDharmasiri&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharaka1103&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ---
@@ -56,14 +56,14 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tharaka-dharmasiri-3ba950204/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/TharakaDharmasiri)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Tharaka1103)
 
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TharakaDharmasiri&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharaka1103&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
@@ -74,8 +74,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=FFD700&vCenter=true&width=500&lines=Highlighted+Projects+%F0%9F%94%A5" alt="Projects Typing Animation" />
 </div>
 
-- [Project Name](https://github.com/TharakaDharmasiri/ProjectName) - Brief description of project and its purpose
-- [Another Project](https://github.com/TharakaDharmasiri/AnotherProject) - Brief description and why it’s interesting
+- [Project Name](https://github.com/Tharaka1103/ProjectName) - Brief description of project and its purpose
+- [Another Project](https://github.com/Tharaka1103/AnotherProject) - Brief description and why it’s interesting
 
 ---
 
@@ -90,10 +90,9 @@
 ## 📈 Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharakaDharmasiri&theme=radical" alt="Profile Summary Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharaka1103&theme=radical" alt="Profile Summary Card" />
 </div>
 
 ---
 
 **Thank you for visiting my profile! Feel free to reach out if you’d like to collaborate or just connect.**
-
