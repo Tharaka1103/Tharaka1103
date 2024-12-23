@@ -88,15 +88,13 @@
 ---  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Tharaka1103)  
 ---  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/<YourPhoneNumber>)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+94714310048)  
 ---  
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/<YourProfile>)  
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/supun.tharaka.9277)  
 ---  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/<YourProfile>)  
+[![Skype](https://img.shields.io/badge/Skype-Chat-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](skype:live:.cid.da409f2dca175642?chat)  
 ---  
-[![Skype](https://img.shields.io/badge/Skype-Chat-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](skype:<YourSkypeID>?chat)  
----  
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/<YourDiscordID>)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/supun_tharaka_999)
 
 ---
 
