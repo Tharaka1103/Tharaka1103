@@ -54,7 +54,7 @@
 
 ### Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-31A8FF?style=flat-square&logo=adobeillustrator&logoColor=white)
 
 ---
 
