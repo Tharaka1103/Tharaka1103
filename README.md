@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi there!👋&height=100&section=header"/>
 </p>
 
-# 👋 Hi there! I'm Tharaka Dharmasiri
+# I'm Tharaka Dharmasiri
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tharaka-dharmasiri-3ba950204/)
 [![GitHub Followers](https://img.shields.io/github/followers/Tharaka1103?style=social)](https://github.com/Tharaka1103)
@@ -151,5 +151,5 @@
 **Thank you for visiting my profile! Feel free to reach out if you’d like to collaborate or just connect.**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
