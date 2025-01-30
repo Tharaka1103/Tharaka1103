@@ -29,7 +29,7 @@
 ## 🚀 Languages
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=004080)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=1A6E1A)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1A6E1A)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=004080)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=00557F)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2C5E8B)](https://www.python.org/)
@@ -62,7 +62,7 @@
 ## 🎨 Design Tools
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=C93D15)](https://www.figma.com/)
-[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-31A8FF?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=2587CC)](https://www.adobe.com/products/illustrator.html)
+[![Adobe Illustrator](https://img.shields.io/badge/Illustrator-31A8FF?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=2587CC)](https://www.adobe.com/products/illustrator.html)
 ---
 
 ## 🏆 GitHub Stats
