@@ -63,6 +63,7 @@
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=C93D15)](https://www.figma.com/)
 [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-31A8FF?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=2587CC)](https://www.adobe.com/products/illustrator.html)
+
 ---
 
 ## 🏆 GitHub Stats
