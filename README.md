@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ttps://capsule-render.vercel.app/api?type=venom&height=300&color=random&text=Hey%20There!&reversal=false&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=random&text=Hey%20There!&reversal=false&animation=twinkling"/>
 </p>
 
 # I'm Tharaka Dharmasiri
