@@ -137,7 +137,7 @@
 
 <div align="center">
   <h3>✨ Profile Views ✨</h3>
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tharaka1103&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
