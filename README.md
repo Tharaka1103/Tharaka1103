@@ -21,9 +21,9 @@
 
 ---
 
-- 🎂 **Age**: 23 years old
+- 🎂 **Age**: 25 years old
 - 📚 **Currently Studying**: BSc (Hons) Information Technology Specialization Information Technology at SLIIT
-- 💻 **Interests**: HTML, CSS, JavaScript, PHP, C++, MERN Stack, Web Development
+- 💻 **Interests**: HTML, CSS, JavaScript, PHP, C++, MERN Stack, Web Development, Next.Js
 
 ---
 ## 🚀 Languages
